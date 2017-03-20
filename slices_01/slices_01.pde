@@ -1,13 +1,9 @@
 import processing.video.*;
 Capture video;
 
-int videoSliceX;
-int drawPositionX;
-
 PImage img;
 int slice = 10;
 
-String value = "vert";
 int counter = 0;
 
 int rand = 5;
